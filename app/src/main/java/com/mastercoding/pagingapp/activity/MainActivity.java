@@ -24,7 +24,6 @@ import dagger.hilt.android.AndroidEntryPoint;
 @AndroidEntryPoint
 public class MainActivity extends AppCompatActivity {
 
-
     MovieViewModel mainActivityViewModel;
     ActivityMainBinding binding;
     MoviesAdapter moviesAdapter;
